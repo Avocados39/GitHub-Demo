@@ -1,0 +1,4 @@
+Name: Andrew Aberth
+Age: 39
+Project Goal: Master Git
+Favorite TV Show: Snowfall
